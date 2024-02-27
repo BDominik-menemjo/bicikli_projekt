@@ -1,0 +1,83 @@
+{"data":{
+    "latvanyossagok":[
+        {"name":"Neszmély", "elements":[
+            {"name":"Skanzen"},
+            {"name":"Kemencék"},
+            {"name":"Komp"},
+            {"name":"Vasút"},
+            {"name":"Apáca-zárda"}
+        ]},
+        {"name":"Dunaalmás","elements":[
+            {"name":"Lilla forrás"},
+	        {"name":"Csokonai mellszobor"},
+	        {"name":"Művház & Lilla szoba"},
+        	{"name":"Körmedence & Pihenőtó"},
+            {"name":"Malom"},
+            {"name":"Lilla sírja"},
+            {"name":"Csata emlékmű"},
+            {"name":"Által-ér trokolat"}
+        ]},
+        {"name":"Tata","elements":[
+            {"name":"Fényes"},
+	        {"name":"Laktanya"},
+	        {"name":"Vár"},
+        	{"name":"Öreg-tó"},
+            {"name":"Angol park"},
+            {"name":"Műbarlang"},
+            {"name":"Szabadtéri színpad"},
+            {"name":"Cseke-tó"},
+            {"name":"Kajakház"},
+            {"name":"Régi KISZ tábor"},
+            {"name":"Cocoon"}
+        ]},
+        {"name":"Vértesszőlős","elements":[
+            {"name":"Kiskacsás tó"},
+	        {"name":"Régészeti múzeum"},
+	        {"name":"Szedd magad eper"},
+        	{"name":"Levendulás"}
+        ]},
+        {"name":"Tatabánya","elements":[
+            {"name":"Galla patak"},
+	        {"name":"Fő tér"},
+	        {"name":"Agóra"},
+        	{"name":"Szent Borbála szobor"},
+            {"name":"JUbileum park"},
+            {"name":"Csónakázó tó"},
+            {"name":"Máltai játszótér"},
+            {"name":"Puskin művelődési ház"},
+            {"name":"Bánhidai templom"},
+            {"name":"Erőmű tó"}
+        ]},
+        {"name":"Környe","elements":[
+            {"name":"Környei tó"},
+	        {"name":"Játszótér"},
+	        {"name":"Kresz pálya"},
+        	{"name":"Gyöpi"}
+        ]},
+        {"name":"Majk","elements":[
+            {"name":"Erdő"},
+	        {"name":"Tavak"},
+	        {"name":"Remeteség"},
+        	{"name":"Eszterházy kastély"}
+        ]},
+        {"name":"Oroszlány","elements":[
+            {"name":"Bányászmúzeum"},
+	        {"name":"V8"},
+	        {"name":"Víztorony"},
+        	{"name":"Játszótér"},
+            {"name":"Malom-tó"},
+            {"name":"Sportcsarnok"},
+            {"name":"Oroszlányi Csobbanó Uszoda"},
+            {"name":"Topolya kút"},
+            {"name":"Fő tér"},
+            {"name":"Művház"},
+            {"name":"Városkapu"},
+            {"name":"Oroszlány felirat"},
+            {"name":"Szénbánya"},
+            {"name":"Menta"},
+            {"name":"Szent Borbála szobor"},
+            {"name":"Vasút"}
+        ]}
+    ]
+}
+}
