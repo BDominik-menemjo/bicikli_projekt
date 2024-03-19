@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none;
+}
+p{
+    text-align: start;
+}
+main{
+    padding-top: 20px;
+}
+.TelepulesekCarousel{
+    margin: auto;
+    max-width: 80vw;
+    max-height: 80vw;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.carousel-item{
+    text-align: center;
+}
+video{
+    margin:auto;
+}
+
+img {
+    width: auto;
+    height: 645px;
+    max-height: 645px;
+}
